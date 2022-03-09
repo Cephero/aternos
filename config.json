@@ -1,0 +1,9 @@
+{
+	"ip":"StarMoonSMP.aternos.me",
+	"port": 61608,
+	"name": "Serrene",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/pl register laluan laluan",
+	"login-cmd":"/pl login laluan"
+}
